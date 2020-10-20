@@ -31,7 +31,7 @@ const App = () => {
         password={password}
         displayName={name}
         containerStyles={{ width: '100%', height: '700px' }}
-        onMeetingEnd={() => console.log('Meeting has ended')}
+        onMeetingEnd={() => window.location.href="/"}
         loadingComponent={<p>ʕ •ᴥ•ʔ jitsi is loading ...</p>} />)
         : (
           <form>
