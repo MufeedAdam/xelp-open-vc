@@ -6,6 +6,8 @@
     "cra-template": "1.0.3",
     "react": "^16.14.0",
     "react-dom": "^16.14.0",
+    "react-jitsi": "^1.0.4",
+    "react-jutsu": "^2.3.0",
     "react-scripts": "3.4.3"
   },
   "scripts": {
