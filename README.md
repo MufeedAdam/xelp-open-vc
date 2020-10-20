@@ -1,3 +1,8 @@
+https://jitsi.github.io/handbook/docs/devops-guide/devops-guide-start
+https://jitsi.github.io/handbook/docs/dev-guide/dev-guide-iframe
+https://www.npmjs.com/package/react-jutsu
+https://github.com/this-fifo/jutsu
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
