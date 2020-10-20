@@ -1,7 +1,7 @@
-https://jitsi.github.io/handbook/docs/devops-guide/devops-guide-start
-https://jitsi.github.io/handbook/docs/dev-guide/dev-guide-iframe
-https://www.npmjs.com/package/react-jutsu
-https://github.com/this-fifo/jutsu
+https://jitsi.github.io/handbook/docs/devops-guide/devops-guide-start <br />
+https://jitsi.github.io/handbook/docs/dev-guide/dev-guide-iframe <br />
+https://www.npmjs.com/package/react-jutsu <br />
+https://github.com/this-fifo/jutsu <br />
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
